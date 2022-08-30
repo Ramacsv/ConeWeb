@@ -14,8 +14,8 @@ _In one of the lakes ice cream floats._
 
 ![alt](LakeIslandwaterA.svg "LakeIslandwaterA.svg")
 
-<b>Photo selection by SuiteCase Friend</b>
-<hr style="border:3px solid red">
+<b>Photo selection by SuiteCase's Friend</b>
+<hr style="border:1px solid red">
 
 _Now from earth Suitecase went to get ice cream from the lake island._
 
