@@ -39,7 +39,6 @@ _The Coneweb also landed with a splash. It cracked open in a door shape._
 
 _He took the ice cream out, Put it in cones and started selling it._
 ![alt](people.jpeg "people")
-
 _It has a unique taste that has nothing ever any one tasted before._
 ![alt](icecreamB.svg  "In a Cone")
 
