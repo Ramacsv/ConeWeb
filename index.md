@@ -6,7 +6,7 @@
 
 **_The story of Suitecase’s  plan to bring the ice cream._**
 
-_As I have told you in my early stories, Suitecase lives in the sky on may islands._
+_As I have told you in my early stories, Suitecase lives in the sky on many islands._
 
 _He also lives on earth. One of the island is Lake Island where there are ten lakes._ 
 
@@ -15,7 +15,7 @@ _In one of the lakes ice cream floats._
 ![alt](LakeIslandwaterA.svg "LakeIslandwaterA.svg")
 
 <b>Photo selection by SuiteCase's Friend</b>
-<hr style="border:1px solid red">
+<hr style="height:1px solid red">
 
 _Now from earth Suitecase went to get ice cream from the lake island._
 
