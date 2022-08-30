@@ -48,15 +48,12 @@ table {
 	border-spacing: 0;
 	border-collapse: collapse;
 }
-
 /* LAYOUT STYLES */
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  // font-size: 1em; //original
-	font-size: 1.30em;
-	font-weight: 600;
-    line-height: 1.5; 
-	
+  font-size: 1.30em;
+  font-weight: 550;
+  line-height: 1.5;
   color: #7e08a1;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #55f7f0 url(../images/body-bg.png) 0 0 repeat;
