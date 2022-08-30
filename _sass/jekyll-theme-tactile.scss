@@ -320,13 +320,15 @@ footer {
   padding-top: 20px;
   padding-bottom: 30px;
   margin-top: 40px;
-  font-size: 13px;
-  color: #aaa;
+  font-size: 16px;
+ // color: #aaa;
+  color: #1807c3;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
 footer a {
-  color: #666;
+ // color: #666; //original
+  color: #fff730;
 }
 footer a:hover {
   color: #444;
