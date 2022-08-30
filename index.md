@@ -9,7 +9,8 @@
 _As I have told you in my early stories, Suitecase lives in the sky on many islands._
 
 _He also lives on earth. One of the island is Lake Island where there are ten lakes._ 
-
+![alt](suitecaseB.png "suitecase")
+<hr style="border-bottom: 4px solid red">
 _In one of the lakes ice cream floats._ 
 
 ![alt](LakeIslandwaterA.svg "LakeIslandwaterA.svg")
